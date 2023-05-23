@@ -9,3 +9,7 @@ In Wordle, users have 6 attempts to guess a 5-letter word. You're helped along t
 ## Getting Started
 
 This project is created with create-react-app. It's intended to be run locally, on your computer, using Node.js and NPM.
+
+---
+
+*This project is from The Joy of React, a comprehensive React.js course.*
